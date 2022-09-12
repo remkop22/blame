@@ -1,5 +1,5 @@
 # Blame
-Reactive programming primitives in 100 lines of Python 
+Reactive programming primitives using ~100 lines of Python.
 
 ## Usage
 
