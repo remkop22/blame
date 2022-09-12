@@ -104,4 +104,3 @@ class BatchContext:
 def batch() -> BatchContext:
     return BatchContext()
 
-
